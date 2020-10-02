@@ -1,0 +1,1307 @@
+city,state,quant
+Las Vegas,NV,31623
+Toronto,ON,20364
+Phoenix,AZ,20170
+Charlotte,NC,10417
+Scottsdale,AZ,9341
+Calgary,AB,8375
+Pittsburgh,PA,7630
+Montr¨¦al,QC,6979
+Mesa,AZ,6577
+Henderson,NV,5272
+Tempe,AZ,4797
+Chandler,AZ,4579
+Cleveland,OH,3856
+Glendale,AZ,3822
+Gilbert,AZ,3743
+Madison,WI,3684
+Mississauga,ON,3518
+Peoria,AZ,2080
+Markham,ON,1962
+North Las Vegas,NV,1677
+Champaign,IL,1327
+North York,ON,1318
+Scarborough,ON,1244
+Surprise,AZ,1217
+Richmond Hill,ON,1152
+Brampton,ON,1146
+Vaughan,ON,1045
+Concord,NC,974
+Goodyear,AZ,951
+Etobicoke,ON,841
+Matthews,NC,812
+Avondale,AZ,743
+Fort Mill,SC,693
+Huntersville,NC,684
+Gastonia,NC,564
+Lakewood,OH,562
+Mentor,OH,559
+Akron,OH,512
+Cornelius,NC,495
+Laval,QC,472
+Westlake,OH,444
+Monroeville,PA,442
+Thornhill,ON,433
+North Olmsted,OH,428
+Strongsville,OH,426
+Urbana,IL,425
+Cave Creek,AZ,424
+Newmarket,ON,411
+Medina,OH,409
+Oakville,ON,401
+Cuyahoga Falls,OH,401
+Middleton,WI,392
+Pineville,NC,382
+Pickering,ON,371
+Fountain Hills,AZ,369
+Rock Hill,SC,346
+Ajax,ON,343
+Parma,OH,341
+Beachwood,OH,328
+Whitby,ON,323
+Indian Trail,NC,312
+Wexford,PA,302
+Sun City,AZ,300
+Boulder City,NV,283
+Aurora,ON,281
+Sun Prairie,WI,276
+Willoughby,OH,274
+Kent,OH,268
+Woodbridge,ON,264
+Avon,OH,262
+Rocky River,OH,261
+Elyria,OH,256
+Litchfield Park,AZ,251
+Stow,OH,246
+Solon,OH,237
+Bethel Park,PA,236
+Cleveland Heights,OH,228
+Chagrin Falls,OH,220
+Brossard,QC,209
+Fitchburg,WI,206
+Hudson,OH,203
+Monroe,NC,203
+Brunswick,OH,199
+Bridgeville,PA,199
+Coraopolis,PA,195
+Waxhaw,NC,188
+Canonsburg,PA,187
+Belmont,NC,187
+Airdrie,AB,186
+Montreal,QC,180
+Mayfield Heights,OH,180
+Verdun,QC,174
+Fairlawn,OH,173
+North Royalton,OH,170
+Tolleson,AZ,168
+Middleburg Heights,OH,166
+East York,ON,166
+West Mifflin,PA,160
+Painesville,OH,157
+Saint-Laurent,QC,156
+Monona,WI,155
+Verona,WI,154
+Streetsboro,OH,153
+Harrisburg,NC,150
+Twinsburg,OH,148
+Independence,OH,148
+Berea,OH,146
+Broadview Heights,OH,142
+Paradise Valley,AZ,141
+Denver,NC,140
+Aurora,OH,140
+Concord,ON,140
+El Mirage,AZ,135
+Laveen,AZ,135
+Homestead,PA,132
+Lyndhurst,OH,130
+Lorain,OH,129
+Avon Lake,OH,128
+Sewickley,PA,126
+Gibsonia,PA,125
+Dorval,QC,125
+Carnegie,PA,124
+Stoughton,WI,122
+Amherst,OH,122
+Murrysville,PA,121
+Kannapolis,NC,120
+North Ridgeville,OH,120
+Mint Hill,NC,119
+Macedonia,OH,118
+Fairview Park,OH,118
+Bedford,OH,117
+Euclid,OH,117
+York,ON,117
+Pointe-Claire,QC,115
+Davidson,NC,115
+Northfield,OH,114
+Sun City West,AZ,114
+Westmount,QC,112
+Carefree,AZ,112
+McMurray,PA,109
+Waunakee,WI,108
+Allison Park,PA,107
+Dollard-des-Ormeaux,QC,107
+Indian Land,SC,106
+Chardon,OH,103
+Queen Creek,AZ,98
+Brecksville,OH,95
+South Euclid,OH,93
+Lasalle,QC,92
+Longueuil,QC,91
+New Kensington,PA,87
+Buckeye,AZ,86
+Eastlake,OH,86
+Shaker Heights,OH,85
+Parma Heights,OH,84
+Savoy,IL,83
+Irwin,PA,83
+Wickliffe,OH,81
+Oregon,WI,81
+Willowick,OH,78
+Brooklyn,OH,77
+Vaudreuil-Dorion,QC,76
+Chesterland,OH,76
+Stouffville,ON,76
+Youngtown,AZ,71
+North Versailles,PA,69
+Glenshaw,PA,67
+Verona,PA,67
+Maple,ON,67
+Woodmere,OH,66
+McKees Rocks,PA,66
+Brook Park,OH,66
+McKeesport,PA,65
+Oakmont,PA,65
+Tallmadge,OH,65
+Lake Wylie,SC,62
+Mount Horeb,WI,61
+Olmsted Falls,OH,59
+Pierrefonds,QC,57
+Unionville,ON,57
+Moon Township,PA,57
+Oakdale,PA,56
+Lachine,QC,56
+Whitchurch-Stouffville,ON,56
+Clover,SC,56
+Garfield Heights,OH,56
+Saint-Sauveur,QC,55
+Mount Holly,NC,55
+Bolton,ON,55
+Tarentum,PA,55
+Warrensville Heights,OH,55
+Maple Heights,OH,55
+Rantoul,IL,55
+Willoughby Hills,OH,53
+Bay Village,OH,52
+Mooresville,NC,51
+Kirkland,QC,50
+Richfield,OH,50
+University Heights,OH,47
+Bellevue,PA,46
+Cottage Grove,WI,46
+North Huntingdon,PA,46
+Mahomet,IL,45
+Copley,OH,45
+White Oak,PA,44
+Highland Heights,OH,42
+Ambridge,PA,42
+Boucherville,QC,41
+Georgetown,ON,40
+Mc Kees Rocks,PA,40
+Pleasant Hills,PA,39
+Sun Lakes,AZ,39
+Elizabeth,PA,39
+Outremont,QC,39
+Mont-Royal,QC,38
+Tega Cay,SC,38
+Halton Hills,ON,38
+Seven Hills,OH,37
+Chestermere,AB,37
+Monticello,IL,36
+Penn Hills,PA,36
+Saint-Leonard,QC,36
+Bedford Heights,OH,36
+Bradford,ON,36
+Caledon,ON,35
+Saint-Jean-sur-Richelieu,QC,35
+Sheffield Village,OH,34
+Anthem,AZ,34
+Middlefield,OH,33
+Cheswick,PA,33
+McFarland,WI,33
+Dallas,NC,31
+Munhall,PA,31
+De Forest,WI,31
+Apache Junction,AZ,30
+Wadsworth,OH,30
+Dollard-Des-Ormeaux,QC,30
+Burton,OH,30
+Columbia Station,OH,29
+Cross Plains,WI,29
+Valley View,OH,29
+Peninsula,OH,28
+Saint-Hubert,QC,28
+N Las Vegas,NV,28
+Guadalupe,AZ,28
+Mc Farland,WI,28
+Richmond Heights,OH,28
+Saint-Lambert,QC,27
+Greenfield Park,QC,27
+East Gwillimbury,ON,27
+King City,ON,26
+Terrebonne,QC,26
+Aspinwall,PA,26
+Finleyville,PA,25
+LaSalle,QC,25
+Pepper Pike,OH,25
+Stanley,NC,24
+Midland,NC,24
+Lower Burrell,PA,24
+Imperial,PA,24
+Brentwood,PA,23
+Rosem¨¨re,QC,23
+Hinckley,OH,23
+Wesley Chapel,NC,23
+Saint-Eustache,QC,23
+West Homestead,PA,22
+Grafton,OH,22
+Rocky View,AB,22
+Anjou,QC,22
+Plum,PA,22
+Stallings,NC,22
+Higley,AZ,22
+Millvale,PA,21
+Turtle Creek,PA,21
+Clairton,PA,21
+La Prairie,QC,21
+DeForest,WI,21
+Springdale,PA,21
+Newbury,OH,21
+Monongahela,PA,20
+Robinson Township,PA,20
+Castle Shannon,PA,20
+Windsor,WI,20
+Saint-J¨¦r?me,QC,20
+Sainte-Anne-de-Bellevue,QC,19
+Kirtland,OH,19
+Mantua,OH,19
+Lowell,NC,19
+Mckees Rocks,PA,19
+Ravenna,OH,19
+Bradford West Gwillimbury,ON,19
+Paradise,NV,19
+Saint Joseph,IL,19
+Mount Lebanon,PA,18
+Waddell,AZ,18
+Chateauguay,QC,18
+Sheffield Lake,OH,18
+Blainville,QC,18
+Munroe Falls,OH,18
+Valley City,OH,17
+Las vegas,NV,17
+Sainte-Julie,QC,17
+Boisbriand,QC,17
+South Park,PA,16
+Weddington,NC,16
+Mayfield,OH,16
+Trafford,PA,16
+Moon,PA,16
+Belleville,WI,16
+Laveen Village,AZ,16
+Milton,ON,15
+West View,PA,15
+Orange Village,OH,15
+North Randall,OH,15
+Locust,NC,15
+Cramerton,NC,15
+Brookpark,OH,15
+Orange,OH,15
+Jefferson Hills,PA,14
+Nellis AFB,NV,14
+Etna,PA,14
+Rocky View County,AB,14
+Oakwood Village,OH,14
+Chambly,QC,14
+Ahwatukee,AZ,14
+phoenix,AZ,14
+LAS VEGAS,NV,13
+Mc Murray,PA,13
+Hampton Township,PA,13
+Braddock,PA,13
+Saint-L¨¦onard,QC,13
+Sainte-Th¨¦r¨¨se,QC,13
+Leetsdale,PA,13
+Crafton,PA,12
+Uxbridge,ON,12
+Summerlin,NV,12
+Champlain,NY,12
+Mcmurray,PA,12
+McDonald,PA,12
+Upper Saint Clair,PA,12
+Saint-Hyacinthe,QC,12
+Heidelberg,PA,12
+Cecil,PA,11
+Beloeil,QC,11
+Mentor-on-the-Lake,OH,11
+Mont-Saint-Hilaire,QC,11
+Robinson,PA,11
+Beaconsfield,QC,11
+Fort McDowell,AZ,11
+Balzac,AB,11
+Avalon,PA,11
+Saint-Jerome,QC,11
+Wilkinsburg,PA,11
+Wilmerding,PA,11
+Norton,OH,11
+Swissvale,PA,11
+Concord,OH,11
+Blue Diamond,NV,11
+Repentigny,QC,10
+L'?le-Perrot,QC,10
+Montreal-Nord,QC,10
+N. Las Vegas,NV,10
+Black Earth,WI,10
+Sharpsburg,PA,10
+Brooklin,ON,10
+Sheffield,OH,10
+Spring Valley,NV,10
+Hudson,QC,10
+Sainte-Adele,QC,10
+Schomberg,ON,10
+Mayfield Village,OH,10
+Dravosburg,PA,10
+Moreland Hills,OH,10
+Mt Lebanon,PA,10
+Caledon East,ON,10
+South Park Township,PA,10
+Deforest,WI,10
+Chateauguay,QC,9
+Mt. Lebanon,PA,9
+Dormont,PA,9
+Glassport,PA,9
+Brooklyn,WI,9
+Saint-Lazare,QC,9
+Saint-Bruno-de-Montarville,QC,9
+PHOENIX,AZ,9
+Pittsburg,PA,9
+Sainte-Ad¨¨le,QC,9
+Sagamore Hills,OH,9
+MESA,AZ,9
+Middleburg Hts,OH,9
+Mc Donald,PA,8
+Belle Vernon,PA,8
+Duquesne,PA,8
+Kleinburg,ON,8
+Willowdale,ON,8
+Rosemere,QC,8
+Mckeesport,PA,8
+Fairport Harbor,OH,8
+Lachute,QC,8
+Ross Township,PA,8
+McCandless Township,PA,8
+Upper St. Clair,PA,8
+las vegas,NV,8
+East Pittsburgh,PA,8
+Venetia,PA,8
+Perry,OH,8
+East Cleveland,OH,7
+Lagrange,OH,7
+Northfield Center,OH,7
+La Salle,QC,7
+Mirabel,QC,7
+McAdenville,NC,7
+Blawnox,PA,7
+Upper St Clair,PA,7
+Hiram,OH,7
+Mount Albert,ON,7
+Bainbridge,OH,7
+Oka,QC,7
+Delson,QC,7
+Mascouche,QC,7
+Walton Hills,OH,7
+Dane,WI,7
+Sainte-Anne-De-Bellevue,QC,7
+Harrison City,PA,7
+C?te Saint-Luc,QC,7
+Cote Saint-Luc,QC,7
+Nobleton,ON,7
+Rouses Point,NY,7
+Joliette,QC,6
+Litchfield,OH,6
+Mentor On the,OH,6
+Candiac,QC,6
+Morin-Heights,QC,6
+Ogden,IL,6
+Mont-Saint-Gr¨¦goire,QC,6
+Dollard-des Ormeaux,QC,6
+Saint-Constant,QC,6
+Gormley,ON,6
+Pitcairn,PA,6
+Oberlin,OH,6
+Mentor On The Lake,OH,6
+Enterprise,NV,6
+Vimont,QC,6
+Olmsted Township,OH,6
+Tottenham,ON,6
+Rexdale,ON,6
+Herminie,PA,5
+Concord Township,OH,5
+Piedmont,QC,5
+scottsdale,AZ,5
+Mayfield Hts,OH,5
+mesa,AZ,5
+Beeton,ON,5
+Novelty,OH,5
+Arnold,PA,5
+Export,PA,5
+Don Mills,ON,5
+Russellton,PA,5
+York,SC,5
+LaGrange,OH,5
+Nellis Air Force Base,NV,5
+Lawrenceville,PA,5
+Clark,NV,5
+Bellvue,PA,5
+Rio Verde,AZ,5
+Highland Hills,OH,5
+New Eagle,PA,5
+Rigaud,QC,5
+Gates Mills,OH,5
+Kahnawake,QC,5
+McCandless,PA,5
+Shadyside,PA,5
+Bath,OH,5
+L'ile-Perrot,QC,5
+Downsview,ON,5
+East McKeesport,PA,5
+Presto,PA,5
+Montr¨¦al-Ouest,QC,5
+Las  Vegas,NV,5
+Pr¨¦vost,QC,4
+Library,PA,4
+East Liberty,PA,4
+Charlotte,SC,4
+charlotte,NC,4
+Sainte-Catherine,QC,4
+Philo,IL,4
+Pheonix,AZ,4
+Fox Chapel,PA,4
+Rankin,PA,4
+Port Credit,ON,4
+Malton,ON,4
+Hemmingford,QC,4
+Montreal-Ouest,QC,4
+Downtown Toronto,ON,4
+Litchfield,AZ,4
+Saint-Bernard-de-Lacolle,QC,4
+Squirrel Hill,PA,4
+Lachenaie,QC,4
+Lancaster,SC,4
+St-Leonard,QC,4
+Harmarville,PA,4
+Downtown,PA,4
+Montr¨¦al-Nord,QC,4
+Roxboro,QC,4
+las Vegas,NV,4
+Las Vegas,CA,4
+Concord Mills,NC,4
+Holland Landing,ON,4
+Pointe-Aux-Trembles,QC,4
+King,ON,4
+St-Jerome,QC,4
+Forest Hills,PA,4
+Ormstown,QC,4
+Edgewood,PA,4
+Scottdale,AZ,4
+Nellis Afb,NV,4
+Saint-Bruno,QC,4
+North Olmstead,OH,4
+Vaudreuil,QC,3
+Saint Laurent,QC,3
+Clarkson,ON,3
+East Mc Keesport,PA,3
+Northwest Calgary,AB,3
+Kennedy Township,PA,3
+Pincourt,QC,3
+henderson,NV,3
+Bloomfield,PA,3
+pittsburgh,PA,3
+Cuddy,PA,3
+Mentor On the Lake,OH,3
+Fort mill,SC,3
+Warrensville Hts,OH,3
+Paoli,WI,3
+Oakwood,OH,3
+Beauharnois,QC,3
+Salaberry-de-Valleyfield,QC,3
+Salaberry-De-Valleyfield,QC,3
+Fort Mcdowell,AZ,3
+Tolono,IL,3
+West Elizabeth,PA,3
+Richmond Hts,OH,3
+Cuyahoga Fls,OH,3
+Dollard-Des Ormeaux,QC,3
+Varennes,QC,3
+Bratenahl,OH,3
+Oakland,PA,3
+Sainte-Therese,QC,3
+Weston,ON,3
+Moon Twp,PA,3
+Rawdon,QC,3
+Inglewood,ON,3
+Cote-Saint-Luc,QC,3
+Emsworth,PA,3
+Sainte-Genevi¨¨ve,QC,3
+Bedford,QC,3
+toronto,ON,3
+Rocky View No. 44,AB,3
+Ingomar,PA,3
+Monoroeville,PA,3
+Creighton,PA,3
+Fort Mill,NC,3
+Montreal-West,QC,3
+Sidney,IL,3
+Brooklyn Heights,OH,3
+Charlemagne,QC,3
+Wildwood,PA,3
+Division No. 6,AB,3
+Franklin Park,PA,3
+Homer,IL,3
+Marshall,WI,3
+Streetsville,ON,3
+Southeast Calgary,AB,3
+Marvin,NC,3
+Pointe Claire,QC,3
+Oak Ridges,ON,2
+Goodwood,ON,2
+Highland Hts,OH,2
+Canonsburg,WA,2
+Mercier,QC,2
+Central City Village,AZ,2
+Mt. Holly,NC,2
+Reminderville,OH,2
+Grand River,OH,2
+Maricopa,AZ,2
+Ville Saint Laurent,QC,2
+Baie-d'Urf¨¦,QC,2
+Montral,QC,2
+Villa Grove,IL,2
+CHARLOTTE,NC,2
+N. Olmsted,OH,2
+Garfield Hts,OH,2
+Mount Royal,QC,2
+Lake Park,NC,2
+Shaler Township,PA,2
+McKnight,PA,2
+Sutersville,PA,2
+Gifford,IL,2
+Qu¨¦bec,QC,2
+Shaker Hts,OH,2
+Saint-Joseph-du-Lac,QC,2
+Hamilton,ON,2
+Las Vegas,NV,2
+Sainte-Genevieve,QC,2
+Coteau-du-Lac,QC,2
+Summerlin South,NV,2
+Napierville,QC,2
+Leslieville,ON,2
+Lawrence,PA,2
+Mcfarland,WI,2
+York Regional Municipality,ON,2
+North Charlotte,NC,2
+Rockyview,AB,2
+Boston Heights,OH,2
+Mansfield,IL,2
+East Mississauga,ON,2
+Saint-Marc-sur-Richelieu,QC,2
+Edmonton,AB,2
+Saint-Sauveur-des-Monts,QC,2
+Silver Lake,OH,2
+Cuyahoga Heights,OH,2
+Bainbridge Township,OH,2
+Sainte-Th¨¦r¨¨se-de-Blainville,QC,2
+Burlington,ON,2
+Phoenix,AZ,2
+cleveland,OH,2
+Mathews,NC,2
+Scarbrough,ON,2
+South Las Vegas,NV,2
+North Braddock,PA,2
+Rillton,PA,2
+Mayfield Hts.,OH,2
+Pointe-Calumet,QC,2
+Ft. Mill,SC,2
+South Amherst,OH,2
+Etobiicoke,ON,2
+Sauk City,WI,2
+Brookline,PA,2
+L'Assomption,QC,2
+McMurry,PA,2
+Broadview Hts,OH,2
+Sturgeon,PA,2
+Thomasboro,IL,2
+glendale,AZ,2
+L'ile-Bizard,QC,2
+L'?le-Bizard,QC,2
+"Las Vegas, NV",NV,2
+PEORIA,AZ,2
+St. Joseph,IL,2
+"Las Vegas,",NV,2
+Baldwin,PA,2
+Sainte-Anne-des-Plaines,QC,2
+Tuscola,IL,2
+Notre-Dame-de-l'Ile-Perrot,QC,2
+St-Bruno-de-Montarville,QC,2
+N Ridgeville,OH,2
+"Phoenix, AZ",AZ,2
+Neville Island,PA,2
+Montville,OH,2
+surprise,AZ,2
+Dallas,TX,2
+Fisher,IL,2
+Bentleyville,OH,2
+Saint Leonard,QC,2
+Peters Township,PA,2
+Eighty Four,PA,2
+Lowesville,NC,2
+Farnham,QC,2
+Crescent,PA,2
+Saint-Hippolyte,QC,2
+Madison West,WI,2
+SCOTTSDALE,AZ,2
+Bois-des-Filion,QC,2
+Huntsburg,OH,2
+Plum Boro,PA,2
+Val-Morin,QC,2
+San Diego,CA,2
+St Leonard,QC,2
+Medina Township,OH,2
+Boston,PA,2
+Barberton,OH,2
+Ashburn,ON,2
+La Vegas,NV,2
+Woodmere Village,OH,2
+Kettleby,ON,2
+South Hills,PA,2
+Los Angeles,CA,2
+C?te-Saint-Luc,QC,2
+North Huntington,PA,2
+Geauga,OH,2
+Agincourt,ON,2
+Green Tree,PA,2
+N. Huntingdon,PA,2
+Mississuaga,ON,2
+Montr¨¨al,QC,2
+Pittsburgh,PA,2
+Ontario,ON,2
+Saint-Basile-le-Grand,QC,2
+Montrose,OH,2
+Chicago,IL,2
+Durham Regional Municipality,ON,2
+Noyan,QC,2
+Mt Holly,NC,2
+Pointe-aux-Trembles,QC,2
+Cooksville,ON,2
+Pittsburch,PA,1
+Tornto,ON,1
+"Urbana, Illinois",IL,1
+Olmsted,OH,1
+Godmanchester,QC,1
+Scottadale,AZ,1
+Marieville,QC,1
+Blue Mounds,WI,1
+Sgs Industrial Park,AZ,1
+Darlington,SC,1
+East Calgary,AB,1
+Mooers,NY,1
+Arrowhead,AZ,1
+Bedford Hts,OH,1
+Saint-Henri,QC,1
+Gilbert,FL,1
+Moon TWP,PA,1
+Harmar Township,PA,1
+Duvernay,QC,1
+Le Sud-Ouest,QC,1
+Mes,AZ,1
+NELLIS AFB,NV,1
+Mont St-Hilaire,QC,1
+Charotte,NC,1
+Glendale,CT,1
+Nevada,NV,1
+Hampstead,QC,1
+Richmonhill,ON,1
+Etobocoke,ON,1
+Phx,AZ,1
+Red Mountain,AZ,1
+Mesa Arizona,AZ,1
+Columbus,WI,1
+St Joseph,IL,1
+East Gwillimburry,ON,1
+Paw Creek,NC,1
+Northyork,ON,1
+Troy Township,OH,1
+S.Euclid,OH,1
+West Toronto,ON,1
+Chatauguay,QC,1
+CLEVELAND,OH,1
+Prescott,AZ,1
+Farmington,CT,1
+Springfield,MO,1
+Lufkin,TX,1
+West Lake,OH,1
+Westview,PA,1
+Middleburg Hts.,OH,1
+St-Lazare,QC,1
+Woodbridge (Vaughan),ON,1
+Thornhill,DUR,1
+N.Ridgeville,OH,1
+Maple Grove,QC,1
+St-Clet,QC,1
+Harwick,PA,1
+Milford,OH,1
+Ste-Doroth¨¦e,QC,1
+markham,ON,1
+Perry Twp,OH,1
+Las Vegas,AZ,1
+Lower Lawrenceville,PA,1
+ROCKY RIVER,OH,1
+St-Laurent,QC,1
+North Las Vegas,NV,1
+Saint-Esprit,QC,1
+Old Port of Montreal,QC,1
+Henderson (Green Valley),NV,1
+GLENDALE,AZ,1
+Richmond Hts.,OH,1
+Hendersonville,PA,1
+R?pentigny,QC,1
+Promenade,NC,1
+Robinson Twp.,PA,1
+PITTSBURGH AP,PA,1
+Frisco,TX,1
+Indian land,NC,1
+ARSENAL,PA,1
+Bradfordwoods,PA,1
+Toronto,OH,1
+Les Coteaux,QC,1
+Hendserson,NV,1
+Fabreville,QC,1
+Parma Hts.,OH,1
+Henderston,NV,1
+cave Creek,AZ,1
+Medicine Hat,AB,1
+Lower burrell,PA,1
+Montr¨¦al-West,QC,1
+Cave creek,AZ,1
+Apache Trail,AZ,1
+Dewey,IL,1
+Lavaltrie,QC,1
+Newbury Township,OH,1
+Olmsted Twp,OH,1
+Phoenix,TX,1
+Columbia Sta,OH,1
+Southside Flats,PA,1
+"Phoenix,",AZ,1
+Penn Hills Township,PA,1
+Brampton FKA Bramalea,ON,1
+NORTH YORK,ON,1
+San Diego,AZ,1
+Saint-laurent,QC,1
+COPLEY,OH,1
+etobicoke,ON,1
+TORONTO - FRONT ST (OT),ON,1
+Sun CIty,AZ,1
+LAS VEGAS AP,NV,1
+Blakeney,NC,1
+Hnederson,NV,1
+Fort Mills,SC,1
+Waterloo,ON,1
+Sainte-Ad¨¨le,AB,1
+Deux-Montagnes Regional County Municipality,QC,1
+Phoenix AZ,AZ,1
+Whitaker,PA,1
+Est¨¦rel,QC,1
+Mentor-On-The-Lake,OH,1
+Oshawa,ON,1
+Saint-Joseph-Du-Lac,QC,1
+Queensville,ON,1
+Rockyview County,AB,1
+Claremont,ON,1
+Toronto,YT,1
+McKeesRocks,PA,1
+Pitsburgh,PA,1
+Sunrise Manor,NV,1
+Millcreek,UT,1
+Saint-Pie,QC,1
+North Carolina,NC,1
+Reedsburg,WI,1
+Alburgh,VT,1
+GILBERT,AZ,1
+Antioch,CA,1
+Vegas,NV,1
+Greenock,PA,1
+PHOENIX AP,AZ,1
+Jean,NV,1
+Phoenix Metro Area,AZ,1
+Mccandless Township,PA,1
+Allegheny,PA,1
+Sainte-th¨¦r¨¨se,QC,1
+NEWMARKET (OT),ON,1
+Parma mid birth,OH,1
+N Solon,OH,1
+Downtown,AB,1
+Lemon Grove,CA,1
+Mentor ohio,OH,1
+Montr¨¦al (Qu¨¦bec),QC,1
+Sunnyslope,AZ,1
+Whitehall,PA,1
+Allentown,PA,1
+Larimer,PA,1
+montreal,QC,1
+Greensboro,NC,1
+W.Mifflin,PA,1
+Wellington,OH,1
+Somerton,AZ,1
+Verrado,AZ,1
+Fort MILL,SC,1
+CAVE CREEK,AZ,1
+Median,OH,1
+C Las Vegas,NV,1
+Las Vegas,PA,1
+Thorncliffe Park,ON,1
+Central Henderson,NV,1
+LITCHFIELD PK,AZ,1
+Indianola,PA,1
+New Tecumseth,ON,1
+Auburn Twp,OH,1
+St-Jean Sur Richelieu,QC,1
+Phonenix,AZ,1
+Saint Hubert,QC,1
+North Scottsdale,AZ,1
+Saxonburg,PA,1
+Las Vegas,NE,1
+Buena Vista,PA,1
+N E Las Vegas,NV,1
+GLendale,AZ,1
+St-Jean-sur-Richelieu,QC,1
+Montreal-Quest,QC,1
+Calgary,AL,1
+"North Olmsted,",OH,1
+North York,AB,1
+Mayfield Heights.,OH,1
+Bond Head,ON,1
+Phoneix,AZ,1
+New York,NY,1
+Shorewood Hills,WI,1
+Rostraver,PA,1
+O'hara Township,PA,1
+Saint-Isidore-de-Laprairie,QC,1
+Draper,UT,1
+Peters (Township Of),PA,1
+Old Brooklyn,OH,1
+South Charlotte,NC,1
+Penfield,IL,1
+Austinburg,OH,1
+St. L¨¦onard,QC,1
+Dublin,CA,1
+Zephyr,ON,1
+Red Rock,AZ,1
+Buckeye - Shaker,OH,1
+Pleasant Hill,PA,1
+?Avondale,AZ,1
+Thornhil,ON,1
+New River,AZ,1
+Tremont,OH,1
+Scottsdsale,AZ,1
+Glen Williams,ON,1
+Mcknight,PA,1
+Chateau,PA,1
+Queen West,ON,1
+pittsbuirgh,PA,1
+PITTSBURGH,PA,1
+Gilbert,CA,1
+Saint-Sauveur-Des-Monts,QC,1
+Quartier des Spectacles,QC,1
+Sedona,AZ,1
+Decatur,NV,1
+Charlotte,TX,1
+Mississsauga,ON,1
+?le-Perrot,QC,1
+Norval,ON,1
+Hazelwood,PA,1
+Oakland,CA,1
+Las Vegas Nv,CA,1
+Boulder CIty,NV,1
+Las Vegas East,NV,1
+Sainte-Madeleine,QC,1
+North  York,ON,1
+Central City,AZ,1
+Morgan Hill,CA,1
+Regional Municipality of York,ON,1
+Parma Hts,OH,1
+AZ,AZ,1
+Middleburg,OH,1
+University Ht,OH,1
+Cleveland Hts.,OH,1
+Down,DOW,1
+Toronto-West,ON,1
+Richmond Hil,ON,1
+Houston,PA,1
+Evergreen,AB,1
+Rockey View,AB,1
+Valleyfield,QC,1
+CLEVELAND AP,OH,1
+Mississaugua,ON,1
+Cleveland Heigh,OH,1
+Indian Trail,OH,1
+Bakerstown,PA,1
+Cleveland heights,OH,1
+Maumee,OH,1
+Avondale,AR,1
+Richmond Hill,BC,1
+West Las Vegas,NV,1
+OAKVILLE,ON,1
+Auburn,OH,1
+Montreal-Est,QC,1
+,AZ,1
+Fithian,IL,1
+Erie,OH,1
+,AB,1
+Surprise,CA,1
+Baie-d'Urfe,QC,1
+NorthYork,ON,1
+Midnapore,AB,1
+Murrysville (Monroeville),PA,1
+Notre-Dame-De-L'ile-Perrot,QC,1
+Frazer,PA,1
+oakville,ON,1
+North Phoenix,AZ,1
+Lindale,OH,1
+Missisauga,ON,1
+De l'Eglise,QC,1
+Strip District,PA,1
+Whitney,NV,1
+The Promenade,AZ,1
+Bel?il,QC,1
+Pennsylvania,PA,1
+Mont¨¦al,QC,1
+Ville-Marie,QC,1
+Rainbow Valley,AZ,1
+Metro Phoenix,AZ,1
+CONCORD,NC,1
+Oakridges,ON,1
+"Cleveland, OH",OH,1
+City Center,NV,1
+St.Pittsburgh,PA,1
+Midway,PA,1
+Ste-Rose,QC,1
+Clinton,PA,1
+TEMPE,AZ,1
+San Tan,AZ,1
+Saint-Jean-Sur-Richelieu,QC,1
+South Heights,PA,1
+L'?le-des-S?urs,QC,1
+Schaumburg,IL,1
+Bridgeview,IL,1
+Valleywide,AZ,1
+Lynhurst,OH,1
+Fort  Mill,SC,1
+south Euclid,OH,1
+PIttsburgh,PA,1
+Phoniex,AZ,1
+Lake Las Vegas,NV,1
+Sainte- Adele,QC,1
+"Etobicoke,",ON,1
+Saint - Hyacinthe,QC,1
+Henderson Nevada,AL,1
+Symons Valley,AB,1
+Centennial,CO,1
+Chandler,AL,1
+Tucson,AZ,1
+San Antonio,NV,1
+kirtland,OH,1
+CALGARY,AB,1
+Wahiawa,HI,1
+Whiitby,ON,1
+Saint-Roch-de-l'Achigan,QC,1
+Toronto-North York,ON,1
+Gelndale,AZ,1
+Calgary,MB,1
+Sharon,ON,1
+University Hts,OH,1
+"Las Vegas, Nevada",NV,1
+San Tan Valley,AZ,1
+Uptown,OH,1
+"Lakewood, Oh",OH,1
+Oakvile,ON,1
+Las Vegas Nevada,NV,1
+North Fayette,PA,1
+peoria,AZ,1
+Scottsdale,CA,1
+Brooklyn Hts.,OH,1
+?le-des-Soeurs,QC,1
+Elizabeth Township,PA,1
+Shady Side,PA,1
+Madison East,WI,1
+Shaler,PA,1
+Suprise,AZ,1
+Beltline,AB,1
+canonsburg,PA,1
+calgary,AB,1
+Painesville Township,OH,1
+lyndhurst,OH,1
+Sandy Ridge,NC,1
+Mint  Hill,NC,1
+Stetson Valley,AZ,1
+Otterburn Park,QC,1
+Citibank,NV,1
+Caledon Village,ON,1
+Bradford Woods,PA,1
+SW Calgary,AB,1
+Dorval,AB,1
+San Francisco,CA,1
+Lodi,WI,1
+Woodbrigde,ON,1
+Hartlepool,HPL,1
+Ft.Mill,SC,1
+Glendale Az,AZ,1
+Henderson and Las vegas,NV,1
+Northfield Center Township,OH,1
+Ranlo,NC,1
+Old Scottsdale,AZ,1
+Ansnorveldt,ON,1
+East Hawkesbury,ON,1
+Stanfield,NC,1
+Cave Creek Road,AZ,1
+Madison,OH,1
+Arizona,AZ,1
+Charlotte,NC,1
+Mcdonald,PA,1
+Pahrump,NV,1
+Garfield Hts.,OH,1
+Alberta,AB,1
+Chander,AZ,1
+Westworld Scottsdale,AZ,1
+TORONTO - DANFORTH (OT),ON,1
+N.Versailles,PA,1
+Regent Square,PA,1
+Garrettsville,OH,1
+Glendale,CA,1
+Fountain Hls,AZ,1
+Coteau-Du-Lac,QC,1
+Las Vegas,GA,1
+W Spring Valley,NV,1
+Sainte-Marguerite-Esterel,QC,1
+Snowflake,AZ,1
+Alburg,VT,1
+Concord Twp,OH,1
+Old Town Scottsdale,AZ,1
+"Scottsdale, AZ",AZ,1
+Sunrise,NV,1
+North Strabane Township,PA,1
+Township of Concord,OH,1
+Schottsdale,AZ,1
+Deerfield,WI,1
+laveen,AZ,1
+Scarborough W,ON,1
+Mazomanie,WI,1
+St-Sauveur,QC,1
+Sage Hill,AB,1
+Iberville,QC,1
+Cranberry Twp,PA,1
+Havelock,QC,1
+Communaut¨¦-Urbaine-de-Montr¨¦al,QC,1
+N. Ridgeville,OH,1
+Nottingham Township,PA,1
+NEWMARKET,ON,1
+Mentor on the Lake,OH,1
+110 Las Vegas,NV,1
+Bedford Hts.,OH,1
+Berry,WI,1
+Ahwatukee Foothills Village,AZ,1
+Saint-Basile-Le-Grand,QC,1
+Warrensville Hts.,OH,1
+Orange,CA,1
+Spring Hill City View,PA,1
+Bapchule,AZ,1
+Reno,NV,1
+Litchfield park,AZ,1
+Morgan,PA,1
+Elrama,PA,1
+"Peoria,",AZ,1
+Mattews,NC,1
+Scotesdale,AZ,1
+Sainte-Doroth¨¦e,QC,1
+Omaha,NE,1
+STALLINGS,NC,1
+Yorkdale,ON,1
+East Point,GA,1
+Tampa,FL,1
+Northeast Calgary,AB,1
+Central,AZ,1
+Grand Rapids,MI,1
+Wilkins,PA,1
+Macedonia,CO,1
+"Laval, Pont Viau",QC,1
+Mayfield Heights (Cleveland),OH,1
+Lake Mead,NV,1
+Highland Park,AB,1
+Saintt-Bruno-de-Montarville,QC,1
+Henryville,QC,1
+Westport,NC,1
+Saint-Charles-Borromee,QC,1
+cave creek,AZ,1
+Wilkens Township,PA,1
+Chargrin Falls,OH,1
+Ingram,PA,1
+Pheonix AZ,AZ,1
+Leeds,XWY,1
+Lacolle,QC,1
+"Indian Land,",SC,1
+Berea,AK,1
+Warrenville,OH,1
+River Drive Park,ON,1
+Cleveland,OH,1
+solon,OH,1
+Brooklyn,NY,1
+Mississauge,ON,1
+Banksville,PA,1
+Crouse,NC,1
+Avon lake,OH,1
+N W Las Vegas,NV,1
+Queen creek,AZ,1
+Brunswick Hills,OH,1
+"Chomedey, Laval",QC,1
+MOORESVILLE,NC,1
+Chertsey,QC,1
+N Versailles,PA,1
+Cleveland,FL,1
+University,NC,1
+SUN PRAIRIE,WI,1
+Saint-Philippe,QC,1
+Rock Hill SC,SC,1
+?Gilbert,AZ,1
+Warrensville,OH,1
+Huntington Beach,CA,1
+Avondale,GA,1
+Peninsul,OH,1
+East Credit,ON,1
+Saint-Pierre-de-V¨¦ronne-¨¤-Pike-River,QC,1
+Etibicoke,ON,1
+QUEEN CREEK,AZ,1
+Centennial Hills,NV,1
+Monreoville,PA,1
+Phoenix Valley,AZ,1
+Sainte-Marguerite-du-lac-Masson,QC,1
+Sainte-Marguerite-du-Lac-Masson,QC,1
+Tempe,AZ,1
+"Mesa, AZ",AZ,1
+Richmond Height,OH,1
+Mesa Az,AZ,1
+Greenway,AZ,1
+Ahwahtukee,AZ,1
+Ville Mont-Royal,QC,1
+Scarobrough,ON,1
+East Gwilimbury,ON,1
+stoughton,WI,1
+Ange-Gardien,QC,1
+Moon Twp.,PA,1
+Glenwillow,OH,1
+Joliet,IL,1
+Harrisburg,PA,1
+Sheboygan,WI,1
+Leaside,ON,1
+Yorkville,ON,1
+Monterey Park,CA,1
+Nationwide,CA,1
+Saint-Charles-Borrom¨¦e,QC,1
+Black Rock City,NV,1
+Mc Adenville,NC,1
+Beachwood,OH,1
+Salem,OR,1
+Les C¨¨dres,QC,1
+Palgrave,ON,1
+cleveland warrensville bedford,OH,1
+Pont-Viau,QC,1
+Venise-en-Qu¨¦bec,QC,1
+Desert Ridge,AZ,1
+Kirlkland,QC,1
+"Markham, ON",ON,1
+West Valley,AZ,1
+Mt. Washington,PA,1
+East Mesa,AZ,1
+Broadlands,IL,1
+Toronto-Etobicoke,ON,1
+North Toronto,ON,1
+Oakwood village,OH,1
+Indian land,SC,1
+Deux-Montagnes,QC,1
+Chandler-Gilbert,AZ,1
+St. Jean Sur Richelieu,QC,1
+Pine,PA,1
+Seven Hills,NV,1
+4321 W Flamingo Rd,NV,1
+Toronto Division,ON,1
+Phoeniix,AZ,1
+Markham,BC,1
+W Henderson,NV,1
+Glbert,AZ,1
+ETOBICOKE,ON,1
+Cuyohoga Falls,OH,1
+Kirkland,WA,1
+Newburgh Heights,OH,1
+N. Randall,OH,1
+Redding,NV,1
+Pgh Int Arprt,PA,1
+Rougemont,QC,1
+Point-Claire,QC,1
+E Midland,NC,1
+Sainte-Rose,QC,1
+"Indian Land, South Carolina",SC,1
+Ville Saint-Laurent,QC,1
+SEWICKLEY,PA,1
+Puyallup,WA,1
+Strongville,OH,1
+L'assomption,QC,1
+Mont St-hilaire,QC,1
+Huntingdon,QC,1
+Ben Avon,PA,1
+Fitchburgh,WI,1
+Maple Hts.,OH,1
+North  Ridgeville,OH,1
+HENDERSON,NV,1
+TORONTO,ON,1
+Greenfield-Park,QC,1
+Green Valley,NV,1
+Kingman,AZ,1
+Pickering Ajax Whitby,ON,1
+McMasterville,QC,1
+Las Vegass,NV,1
+Catawba Springs,NC,1
+CHANDLER,AZ,1
+Suncity,AZ,1
+Rural Ridge,PA,1
+Rocky river,OH,1
+Greensburg,PA,1
+Mayfield Hgts,OH,1
+West Montr¨¦al,QC,1
+Midland,MI,1
+Port Vue,PA,1
+Mount Washington,PA,1
+Delacour,AB,1
+Saint-Liboire,QC,1
+Ballantyne,NC,1
+moon,PA,1
+New Glarus,WI,1
+Mount Mourne,NC,1
+Whtiby,ON,1
+North york,ON,1
+N.Olmsted,OH,1
+Russell Twp,OH,1
+Centre Island,ON,1
+S Concord,NC,1
+North strabane,PA,1
+Sainte-Marthe,QC,1
+Hopewell,VA,1
+Seattle,WA,1
+N.Las Vegas,NV,1
