@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-
 import pyspark
 from pyspark import SparkContext, SparkConf
 from pyspark.sql import SparkSession
@@ -23,13 +21,13 @@ df_review = spark.read.json("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/yelp_
 #df_review = df_review.limit(500)
 
 import pyspark.sql.functions as f
-df_review = df_review.filter("cool >=5 or useful >=5 or funny >=5") 
+df_review = df_review.filter("cool >=3 or useful >=3 or funny >=3") 
 df_review = df_review.select("stars","text")
 df_review = df_review.repartition(100)
 
 from pyspark.sql import functions as F
 df_review = df_review.withColumn("target", F.when( df_review.stars <=2,1 ).otherwise(0))
-
+df_review.cache()
 
 (train_set, test_set) = df_review.randomSplit([0.7, 0.3], seed = 1002)
 
@@ -51,8 +49,11 @@ val_df = pipelineFit.transform(test_set)
 lr = LogisticRegression(maxIter=100)
 lrModel = lr.fit(train_df)
 predictions = lrModel.transform(val_df)
-#predictions.repartition(1).write.mode('overwrite').option("header", "true").format('json').json("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/j.json")
-#predictions.repartition(1).write.format('com.databricks.spark.csv').save("/home/hadoop/predict.csv")
+#predictions = predictions.select('target','label', 'rawPrediction', 'probability', 'prediction')
+
+from pyspark.sql.functions import col
+prediction_1 = predictions.select('prediction','label','target',col("probability").cast("string"))
+prediction_1.repartition(1).write.mode('overwrite').format('com.databricks.spark.csv').save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/logisticReg_pre.csv")
 
 from pyspark.ml.evaluation import BinaryClassificationEvaluator
 evaluator = BinaryClassificationEvaluator(rawPredictionCol="rawPrediction")
@@ -66,6 +67,13 @@ accuracy = predictions.filter(predictions.label == predictions.prediction).count
 df_acc = spark.createDataFrame([accuracy], FloatType())
 df_acc.write.mode('overwrite').option("header", "true").format('com.databricks.spark.csv').save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/acc.csv")
 
+from pyspark.sql.types import StringType, FloatType
+list_coef = [float(round(x,4)) for x in lrModel.coefficients]
+list_word = pipelineFit.stages[1].vocabulary
+df_word_list = spark.createDataFrame(list_word,schema = StringType())
+df_word_list.write.mode('overwrite').option("header", "true").format('com.databricks.spark.csv').save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/word_list.csv")
+sc.parallelize(list_coef).coalesce(1).saveAsTextFile("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/coef_list.txt")
+
 #coe = lrModel.coefficients
 #list_1 = []
 #for i in range(len(lrModel.coefficients)):
@@ -75,5 +83,5 @@ df_acc.write.mode('overwrite').option("header", "true").format('com.databricks.s
 #df_coef = sqlContext.createDataFrame(list_1,["word","coef"]).filter("coef>=0.1").orderBy("coef", ascending = False)
 #df_coef.write.mode('overwrite').format('com.databricks.spark.csv').save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/logisticReg_coef.csv")
 
-lrModel.save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/model/lrmodel")
+lrModel.save("s3://cf-templates-efn3brqcqavf-us-east-2/yelp/output/model/lrmodel_neo")
 print(accuracy)
