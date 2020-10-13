@@ -16,6 +16,11 @@
 ## Data Source
 - Link: https://www.yelp.com/dataset
 
+## Data Pipeline
+<p align="center">
+    <img src="https://github.com/simon1405/insight_project_negative_reviews/blob/main/datapipeline.JPG" alt="Pipeline" width="500px">
+</p>
+
 ## Demo:
 - Link: http://ec2-18-220-5-102.us-east-2.compute.amazonaws.com:8050/
 
